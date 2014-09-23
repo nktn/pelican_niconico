@@ -9,7 +9,7 @@ Installation
 ------------
 
 To enable, ensure that `pelican_niconico.py` is put somewhere that is accessible.
-Then use as follows by adding the following to your settings.py:
+Then use as follows by adding the following to your pelicanconf.py:
 
     PLUGIN_PATH = 'path/to/pelican-plugins'
     PLUGINS = [
@@ -23,11 +23,11 @@ Then use as follows by adding the following to your settings.py:
 Usage
 -----
 code-block:: md
-[niconico:niconicoVideoID]
-
-if you want to resize embed player
-[niconico:niconicoVideoID?w=560&h=315]
-
+[niconico:niconicoVideoID]  
+  
+if you want to resize embed player  
+[niconico:niconicoVideoID?w=560&h=315]  
+  
 Example
 -----
-[niconico:sm22098259]
+[niconico:sm22098259]  
