@@ -23,17 +23,17 @@ Then use as follows by adding the following to your pelicanconf.py:
 Usage
 -----
 code-block:: md
-[niconico:niconicovideoID]  
+[niconico:niconico videoID]  
   
 if you want to resize embed player  
-[niconico:niconicovideoID?w=560&h=315]  
+[niconico:niconico videoID?w=560&h=315]  
   
   
 result in:  
 code-block:: html  
       
     <div class="niconico">  
-        <script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/niconicovideoID"></script>  
+        <script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/niconico videoID"></script>  
     </div>  
   
 
@@ -41,3 +41,4 @@ Example
 -----
 [niconico:sm22098259]  
   
+[niconico:sm22098259?w=560&h=315]  
