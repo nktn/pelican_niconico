@@ -1,4 +1,4 @@
-niconico video Plugin For Pelican
+embed niconico video Plugin For Pelican
 ==================================
 
 Pelican niconico is a plugin to enabled you to embed niconico videos in your pages
