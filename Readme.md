@@ -31,12 +31,12 @@ if you want to resize embed player
   
 result in:  
   
-.. code-block:: html  
-    
+code-block:: html  
+      
     <div class="niconico">  
         <script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/niconicoID"></script>  
     </div>  
-
+  
 
 Example
 -----
