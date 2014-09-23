@@ -42,8 +42,3 @@ Example
 -----
 [niconico:sm22098259]  
   
-
-Visual Example
------
-
-![example](pelican_niconico_example.png)
