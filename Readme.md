@@ -30,7 +30,6 @@ if you want to resize embed player
   
   
 result in:  
-  
 code-block:: html  
       
     <div class="niconico">  
